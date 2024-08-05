@@ -1,0 +1,54 @@
+.button {
+    background-color: #1f1d41;
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    width: 70px;
+    height: 40px;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-top: 45px;
+ }
+ 
+ 
+ .cont {
+    background-color: #86d2f2;
+    padding: 20px;
+    height: 100vh;
+ }
+ 
+ 
+ .traffic-light {
+    color: #1f1d41;
+    font-family: "Roboto";
+    font-size: 46px;
+    font-weight: bold;
+ }
+ 
+ 
+ .traffic {
+    background-color: #1f1d41;
+    width: 100px;
+    height: 300px;
+    border-radius: 40px;
+    margin-left: 30px;
+   justify-content: center;
+   text-align: center;
+    padding: 20px;
+}
+
+
+.bulb {
+   background-color: #4b5069;
+   width: 50px;
+   height: 50px;
+   border-radius: 50px;
+   margin-top: 25px;
+   margin-bottom: 25px;
+   margin-left: 5px;
+}
+
+.cont{
+   text-align: center;
+   justify-content: center;
+}
